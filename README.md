@@ -10,9 +10,9 @@ Principal curves and surfaces are nonlinear generalizations of principal compone
 
 ## Contact:
 
-Dr. Kuiyu CHANG
-Assistant Professor
-Nanyang Technological University
+Dr. Kuiyu CHANG  
+Assistant Professor  
+Nanyang Technological University  
 kuiyu.chang@pmail.ntu.edu.sg
 
 ---
